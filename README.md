@@ -18,8 +18,6 @@ payloads.
 
 ## Screenshot
 
-Replace the placeholder image at `docs/screenshot.png` with an actual app screenshot.
-
 ![BeautyThing screenshot](docs/screenshot.png)
 
 ## Run
